@@ -23,3 +23,5 @@ end
 
 garfield = Cat.new("Garfield", "Lasagna", 12)
 sylvester = Cat.new("Sylvester", "Tweety-Bird", 6)
+
+puts garfield.meow()
